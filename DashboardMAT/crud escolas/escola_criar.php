@@ -55,6 +55,7 @@
 
 
         </div>
+    
 
         <!-- Certifique-se de que estes scripts estão no final da página, antes do fechamento do body -->
         <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
@@ -67,7 +68,7 @@
     (() => {
         'use strict'
 
-        // Fetch all the forms we want to apply custom Bootstrap validation styles to
+        // Fetch all the forms we want to apply custom Bootstrap validation styles to (se voce esta lendo isso, voce e um fodinha)
         const forms = document.querySelectorAll('.needs-validation')
 
         // Loop over them and prevent submission
