@@ -14,8 +14,7 @@
                     </svg> </a>
             </h6>
             <ul class="nav flex-column">
-                <li class="nav-item"> <a class="nav-link d-flex align-items-center gap-2 active" aria-current="page"
-                        href="#"> <svg class="bi" aria-hidden="true">
+                <li class="nav-item"> <a class="nav-link d-flex align-items-center gap-2" href="CRUD_escolas\create.php"> <svg class="bi" aria-hidden="true">
                             <use xlink:href="#house-fill"></use>
                         </svg>
                         Escolas
@@ -32,7 +31,7 @@
                         </svg>
                         Séries
                     </a> </li>
-                <li class="nav-item"> <a class="nav-link d-flex align-items-center gap-2" href="#"> <svg class="bi"
+                <li class="nav-item"> <a class="nav-link d-flex align-items-center gap-2" href="CRUD_pessoas\create"> <svg class="bi"
                             aria-hidden="true">
                             <use xlink:href="#people"></use>
                         </svg>
@@ -47,7 +46,7 @@
                     </svg> </a>
             </h6>
             <ul class="nav flex-column mb-auto">
-                <li class="nav-item"> <a class="nav-link d-flex align-items-center gap-2" href="#"> <svg class="bi"
+                <li class="nav-item"> <a class="nav-link d-flex align-items-center gap-2" href="CRUD_escolas\index.php"> <svg class="bi"
                             aria-hidden="true">
                             <use xlink:href="#file-earmark-text"></use>
                         </svg>
@@ -65,7 +64,7 @@
                         </svg>
                         Relatório - Séries
                     </a> </li>
-                <li class="nav-item"> <a class="nav-link d-flex align-items-center gap-2" href="#"> <svg class="bi"
+                <li class="nav-item"> <a class="nav-link d-flex align-items-center gap-2" href="CRUD_pessoas\index.php"> <svg class="bi"
                             aria-hidden="true">
                             <use xlink:href="#file-earmark-text"></use>
                         </svg>
